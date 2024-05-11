@@ -1,0 +1,22 @@
+#def 
+def saludar(nombre):
+    print('Hola'+ nombre) 
+saludar('Juan')
+#numero enero a binario bin()
+#numero binario a decimal int()
+#numero decimal a binario bin()
+#numero binario a hexadecimal hex()
+#numero hexadecimal a decimal int()
+#valor absoluto abs()
+print(abs(-10))
+#redondear round()
+print(round(10.5))
+#potencia pow()
+print(pow(2,3))
+#eval()
+print(eval("10+5"))
+#help() 
+print(help(pow))
+def saludo():
+    print('hola esto es la funcion saludo, descripcion de la funcion')
+help(saludo)
